@@ -1,24 +1,19 @@
-
----
-
-## 🐍 README for `WeatherMood_Python`
+🐍 README for `WeatherMood_Python`
 
 ```markdown
-# WeatherMood_Python 🌦️
+WeatherMood_Python 🌦️
 
 A playful Python program that combines **weather conditions** and **user mood** to give fun suggestions.  
 It’s a simple interactive advisor that makes your day brighter.
 
----
 
-## 🚀 Features
+ 🚀 Features
 - Interactive input for weather (`sunny`, `rainy`, `cloudy`)
 - Input for mood (`happy`, `sad`, `tired`)
 - Creative suggestions based on combinations
 
----
 
-## 🛠️ How to Run
+🛠️ How to Run
 1. Run the script:
    ```bash
    python weathermood.py
